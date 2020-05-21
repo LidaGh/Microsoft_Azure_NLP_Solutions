@@ -1,10 +1,10 @@
 # Azure_NLPSolutions
 In this repo, we briefly review NLP and its various techniques. We then comprehensively provide the links of Microsoft Azure solutions for each type of technique.
 
-## Understanding NLP
+# Understanding NLP
 Natural Language Processing (NLP) (also known as Neuro Linguistic Programming) is a field of artificial intelligence, machine learning, and the computational linguistics. Its sub-domains includes: **natural language understanding**, **machine translation**, **semantics** , **the syntactic passing**, **natural language emulation**, **dialectal systems** such as speech recognition, question & answering and a broad range of **text analytics techniques** such as classification, summarization, ranking and generation tasks. 
 
-#Knowledge Extraction 
+## Knowledge Extraction 
 Knowledge extraction also known as (Information Extraction (IE)) is one of the main techniques of NLP which is the task of automatically extracting knowledge from structured/semi-structured (XML, RDF, HTML) documnets or unstructured (text, images, speech) resources. This task can be done at different lingustice levels.  
 
 
@@ -37,9 +37,9 @@ These solutions are designed for advanced knowlege mining tasks, such as Name En
 - [Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
 - [Form Recognizer Recipes](https://github.com/microsoft/knowledge-extraction-recipes-forms)
 
-## Language Models using Deep Learning
+## Language Models
 Building a language models are the most advanced NLP tasks, such as **word embedding**, **classification**, **summarization**, **document similarities** are implemented by deep learning techniques. Azure cloud currently does not have the full-support for such techniques,
 
-### 1. NLP recipes: 
+### 1. Deep Learning Jupyter Notebooks: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
