@@ -40,6 +40,6 @@ These solutions are designed for advanced knowlege mining tasks, such as Name En
 ## Language Models
 Building a language models are the most advanced NLP tasks, such as **word embedding**, **classification**, **summarization**, **document similarities** are implemented by deep learning techniques. Azure cloud currently does not have the full-support for such techniques,
 
-### 1. Deep Learning Jupyter Notebooks: 
+### 1. Deep Learning jupyter notebooks solutions: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
