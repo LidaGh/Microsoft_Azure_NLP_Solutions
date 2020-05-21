@@ -13,33 +13,33 @@ Microosft Azure  Cloud solutions for knowledge exraction tasks offer three types
 # 1. Pre_built solution for extracting knowledge from Vision, Speech, Language, Web Search, and Decision:
 Azure Cognitive Services are APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Services enable developers to easily add cognitive features into their applications. The goal of Azure Cognitive Services is to help developers create applications that can see, hear, speak, understand, and even begin to reason. 
 
-[Microstf docs resource](https://docs.microsoft.com/en-us/azure/cognitive-services/Welcome#feedback) has access to the APIs. 
+- [Microstf docs resource](https://docs.microsoft.com/en-us/azure/cognitive-services/Welcome#feedback) has access to the APIs. 
 
 Below is the official repositories for some of the services published by Microsoft: 
 
-[Project page for Cognitive Services offerings and demos] (https://azure.microsoft.com/en-us/services/cognitive-services/)
-[Free trial access key link] (https://azure.microsoft.com/en-us/try/cognitive-services/)
-[Cognitive Services Java SDK samples] (https://github.com/Azure-Samples/cognitive-services-java-sdk-samples)
-[Cognitive Services Node.js SDK samples] (https://github.com/Azure-Samples/cognitive-services-node-sdk-samples)
-[Cognitive Services Python SDK samples] (https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
+- [Project page for Cognitive Services offerings and demos] (https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Free trial access key link] (https://azure.microsoft.com/en-us/try/cognitive-services/)
+- [Cognitive Services Java SDK samples] (https://github.com/Azure-Samples/cognitive-services-java-sdk-samples)
+- [Cognitive Services Node.js SDK samples] (https://github.com/Azure-Samples/cognitive-services-node-sdk-samples)
+- [Cognitive Services Python SDK samples] (https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
 
-[Cognitive Services Speech SDK] (https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-[Cognitive-services-REST-api-samples] (https://github.com/Azure-Samples/cognitive-services-REST-api-samples)
-[Azure Cognitive TTS Samples] (https://github.com/Azure-Samples/Cognitive-Speech-TTS)
+- [Cognitive Services Speech SDK] (https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+- [Cognitive-services-REST-api-samples] (https://github.com/Azure-Samples/cognitive-services-REST-api-samples)
+- [Azure Cognitive TTS Samples] (https://github.com/Azure-Samples/Cognitive-Speech-TTS)
 
-[Computer Vision Recipes] (https://github.com/microsoft/computervision-recipes)
+- [Computer Vision Recipes] (https://github.com/microsoft/computervision-recipes)
 
-[Language Understanding (LUIS)] (https://github.com/Azure-Samples/cognitive-services-language-understanding)
+- [Language Understanding (LUIS)] (https://github.com/Azure-Samples/cognitive-services-language-understanding)
 
 	
 # 2. Advanced Knowledge Mining solutions:
 These solutions are designed for advanced knowlege mining tasks, such as Name Entity Recognition, Phrase Extraction, Custom labeling and Custom skills, where can enrich the IE porcess. 
-[Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
-[Form Recognizer Recipes](https://github.com/microsoft/knowledge-extraction-recipes-forms)
+- [Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
+- [Form Recognizer Recipes](https://github.com/microsoft/knowledge-extraction-recipes-forms)
 
 # 3. Language Models using Deep Learning 
 The most advanced NLP tasks, such as word embedding, classification, summarization, document similarities are implemented by deep learning techniques. Azure cloud currently does not have the full-support for such techniques, but Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
-[Microsoft NLP Recipes] (https://github.com/microsoft/nlp-recipes)
+- [Microsoft NLP Recipes] (https://github.com/microsoft/nlp-recipes)
 
 
 
