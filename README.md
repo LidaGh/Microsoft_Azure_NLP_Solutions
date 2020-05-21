@@ -1,5 +1,13 @@
 # Azure_NLPSolutions
-Natural Language Processing (NLP) (also known as Neuro Linguistic Programming) is a field of artificial intelligence, machine learning, and the computational linguistics. The sub-areas include natural language understanding, machine translation, semantics and the syntactic passing, natural language emulation, dialectal systems and a broad range of text analytics techniques such as classification, ranking and generation tasks. In this repo, we briefly review different NLP applications and discuss Microsoft Azure cloud solutions -including LUIS, Cognitive Services, and text analytics recipes in Deep learning- available for various NLP scenarios. 
+Natural Language Processing (NLP) (also known as Neuro Linguistic Programming) is a field of artificial intelligence, machine learning, and the computational linguistics. The sub-areas include **natural language understanding**, **machine translation**, **semantics** and **the syntactic passing**, **natural language emulation**, **dialectal systems** such as speech recognition, question & answering and a broad range of **text analytics techniques** such as classification, ranking and generation tasks. In this repo, we briefly review different NLP applications and discuss Microsoft Azure cloud solutions -including LUIS, Cognitive Services, and text analytics recipes in Deep learning- available for various NLP scenarios.
+
+# Information Extraction 
+Information extraction (IE) (also known as Information Retrieval (IR)) is a sub-domain of NLP, is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents. 
+
+This site was built using [GitHub Pages](https://github.com/Azure-Samples/azure-search-knowledge-mining)
+
+In most of the cases this activity concerns processing human language texts by means of NLP. 
+
 
  
 
