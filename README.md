@@ -17,19 +17,19 @@ Azure Cognitive Services are APIs, SDKs, and services available to help develope
 
 Below is the official repositories for some of the services published by Microsoft: 
 
-- [Project page for Cognitive Services offerings and demos] (https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Project page for Cognitive Services offerings and demos](https://azure.microsoft.com/en-us/services/cognitive-services/)
 - [Free trial access key link] (https://azure.microsoft.com/en-us/try/cognitive-services/)
-- [Cognitive Services Java SDK samples] (https://github.com/Azure-Samples/cognitive-services-java-sdk-samples)
-- [Cognitive Services Node.js SDK samples] (https://github.com/Azure-Samples/cognitive-services-node-sdk-samples)
-- [Cognitive Services Python SDK samples] (https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
+- [Cognitive Services Java SDK samples](https://github.com/Azure-Samples/cognitive-services-java-sdk-samples)
+- [Cognitive Services Node.js SDK samples](https://github.com/Azure-Samples/cognitive-services-node-sdk-samples)
+- [Cognitive Services Python SDK samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
 
-- [Cognitive Services Speech SDK] (https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-- [Cognitive-services-REST-api-samples] (https://github.com/Azure-Samples/cognitive-services-REST-api-samples)
-- [Azure Cognitive TTS Samples] (https://github.com/Azure-Samples/Cognitive-Speech-TTS)
+- [Cognitive Services Speech SDK](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+- [Cognitive-services-REST-api-samples](https://github.com/Azure-Samples/cognitive-services-REST-api-samples)
+- [Azure Cognitive TTS Samples](https://github.com/Azure-Samples/Cognitive-Speech-TTS)
 
-- [Computer Vision Recipes] (https://github.com/microsoft/computervision-recipes)
+- [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes)
 
-- [Language Understanding (LUIS)] (https://github.com/Azure-Samples/cognitive-services-language-understanding)
+- [Language Understanding (LUIS)](https://github.com/Azure-Samples/cognitive-services-language-understanding)
 
 	
 # 2. Advanced Knowledge Mining solutions:
@@ -39,20 +39,4 @@ These solutions are designed for advanced knowlege mining tasks, such as Name En
 
 # 3. Language Models using Deep Learning 
 The most advanced NLP tasks, such as word embedding, classification, summarization, document similarities are implemented by deep learning techniques. Azure cloud currently does not have the full-support for such techniques, but Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
-- [Microsoft NLP Recipes] (https://github.com/microsoft/nlp-recipes)
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
+- [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
