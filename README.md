@@ -2,7 +2,19 @@
 In this repo, we briefly review NLP and its various techniques. We then comprehensively provide the links of Microsoft Azure solutions for each type of technique.
 
 # Understanding NLP
-Natural Language Processing (NLP) (also known as Neuro Linguistic Programming) is a field of artificial intelligence, machine learning, and the computational linguistics. Its sub-domains includes: **natural language understanding**, **machine translation**, **semantics** , **the syntactic passing**, **natural language emulation**, **dialectal systems** such as speech recognition, question & answering and a broad range of **text analytics techniques** such as classification, summarization, ranking and generation tasks. 
+Natural Language Processing (NLP) is a field of artificial intelligence, machine learning, and computational linguistics and its primary goal is the interactions between computers and human (natural) languages. In particular, NLP provides different techniques of how a computer program can process and analyse large volume of human language data including text, speech and voice.
+
+
+Its sub-domains includes: **natural language understanding**, **machine translation**, **semantics** , **the syntactic passing**, **natural language emulation**, **dialectal systems** such as **speech recognition**, **question & answering** and a broad range of **text analytics techniques** such as classification, summarization, ranking and generation tasks.
+
+
+# Breif History of NLP 
+In seventeenth century, two philosophers proposed some theories for machine translation, but none resulted in development of an actual machine. The first patents for "translating machines" were applied for in the mid-1930s, creation of automated bilingual dictionary with various ligustic features. 
+The breakthrough in AI -and NLP in particular- happened in 1950, when Alan Turing, an Englsih mathematian, published his famous article "Computing Machinery and Intelligence" and proposed what is now called the 'Turing test'.  
+
+Turing test is used to determine whether or not computer(machine) can think intelligently like human?. This criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliably — on the basis of the conversational content alone — between the program and a real human. (link wikipedia) 
+
+
 
 ## Knowledge Extraction 
 Knowledge extraction also known as (Information Extraction (IE)) is one of the main techniques of NLP which is the task of automatically extracting knowledge from structured/semi-structured (XML, RDF, HTML) documnets or unstructured (text, images, speech) resources. This task can be done at different lingustice levels.  
