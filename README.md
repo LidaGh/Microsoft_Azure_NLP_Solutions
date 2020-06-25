@@ -2,8 +2,11 @@
 In this repo, we briefly review NLP and its various techniques. We then comprehensively provide the links of Microsoft Azure solutions for each type of technique.
 
 # Understanding NLP
-Natural Language Processing (NLP) is a field of artificial intelligence, machine learning, and computational linguistics and its primary goal is the interactions between computers and human (natural) languages. In particular, NLP provides different techniques of how a computer program can understand, analyse, and potentially generate large volume of human language data including text, speech and voice.
+Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages. 
 
+In particular, NLP provides different techniques of how a computer program can **understand**, **analyse**, and potentially **generate large volume** of human language data.
+
+![AI-timeLine](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/AI_timeline.PNG)
 
 NLP applications include **natural language understanding**, **machine translation**, **semantics** , **the syntactic passing**, **natural language emulation**, **dialectal systems** such as **speech recognition**, **question & answering** and a broad range of **text analytics techniques** such as topic modelling, classification, summarization, ranking and generation tasks.
 
