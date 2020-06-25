@@ -34,9 +34,7 @@ This is a free-understanding of mapping between Azure AI solutions and NLP appli
 
 
 # Getting Started
-Microosft Azure AI can be used for NLP applications for three 
-
-## Pre_built AI:
+Azure AI offers three different solution types for NLP applications: 
 ### A) Azure Cognitive Services:
 These solutions are there APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Services enable developers to easily add cognitive features into their applications. The goal of Azure Cognitive Services is to help developers create applications that can see, hear, speak, understand, and even begin to reason.The catalog of services within Azure Cognitive Services can be categorized into five main pillars - Vision, Speech, Language, Web Search, and Decision.
 
@@ -59,14 +57,12 @@ Below is the official repositories for some of the services published by Microso
 - [Language Understanding (LUIS)](https://github.com/Azure-Samples/cognitive-services-language-understanding)
 
 	
-### B) Knowledge Mining solutions:
+ ### B) Knowledge Mining solutions:
 These solutions are designed for advanced knowlege mining tasks, such as Name Entity Recognition, Phrase Extraction, Custom labeling and Custom skills, where can enrich the IE porcess. 
 - [Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
 - [Form Recognizer Recipes](https://github.com/microsoft/knowledge-extraction-recipes-forms)
 
-## Custom AI: 
-
- ### Machine learning and Deep Learning solutions: 
+ ### Deep Learning NLP solutions: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
  ![Content](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/nlp_rec.PNG)
