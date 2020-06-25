@@ -70,8 +70,8 @@ Microsoft research has published a repository contains examples and best practic
  # Microsoft AI Platform at a glance:
  ![MS](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MS_AI_Platform.PNG)
  
- ----
+ ---------
 
-#### contributor: Dr Lida Ghahremnalou, Nlp specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
+#### contributor: Dr Lida Ghahremnalou, NLP specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
 
