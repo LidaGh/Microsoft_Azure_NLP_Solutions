@@ -1,5 +1,7 @@
-# Azure AI & NLP Solutions
-In this repo, we briefly review NLP and its various techniques. We then comprehensively provide the links of Microsoft Azure solutions for each type of technique.
+# Overview 
+This repo breifly introduce AI and NLP with an comperhensive overview of Microsoft Azure AI and NLP solutions. It then provides a mapping between NLP applications and Azure AI solutions, wich also contains the links to the Microsoft official NLP repositories. 
+
+## contributor: Dr Lida Ghahremnalou, AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
 # Understanding NLP
 Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages. 
@@ -16,8 +18,6 @@ Turing test is used to determine whether or not computer(machine) can think inte
 
 
 ![AI-timeLine](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/AI_timeline.PNG)
-
-
 
 
 
