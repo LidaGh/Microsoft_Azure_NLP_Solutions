@@ -30,7 +30,7 @@ The Microsoft AI platform provides a suite of powerful tools to allow developers
 # Mapping NLP applications to Azure AI 
 This is a free-understanding of mapping between Azure AI solutions and NLP applications.
 
-![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
+![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP2.PNG)
 
 
 # Getting Started
@@ -69,6 +69,8 @@ Microsoft research has published a repository contains examples and best practic
  
  # Microsoft AI Platform at a glance:
  ![MS](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MS_AI_Platform.PNG)
+ 
+ ----
 
 #### contributor: Dr Lida Ghahremnalou, Nlp specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
