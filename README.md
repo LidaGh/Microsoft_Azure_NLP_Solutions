@@ -72,6 +72,7 @@ Microsoft research has published a repository contains examples and best practic
  
  ---------
 
-#### contributor: Dr Lida Ghahremnalou, NLP specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
+### Contributor: 
+Dr Lida Ghahremnalou, NLP specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
 
