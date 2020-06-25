@@ -22,12 +22,12 @@ Turing test is used to determine whether or not computer(machine) can think inte
 ![AI-timeLine](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/AI_timeline.PNG)
 
 
-# Microsoft Azure AI 
+# Overview Microsoft Azure AI 
 The Microsoft AI platform provides a suite of powerful tools to allow developers to easily and quickly infuse AI into their applications and scenarios, enabling new, intelligent experiences for their users.
 
 ![Microsoft Azure AI](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/azureAI.PNG)
 
-# Mapping NLP applications to Microsoft Azure AI 
+# Mapping NLP applications to Azure AI 
 This is a free-understanding of mapping between Azure AI solutions and NLP applications.
 
 ![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
@@ -35,7 +35,7 @@ This is a free-understanding of mapping between Azure AI solutions and NLP appli
 
 # Getting Started
 Azure AI offers three different solution types for NLP applications: 
-### 1) Azure Cognitive Services:
+### 1) Azure cognitive services:
 These solutions are there APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Services enable developers to easily add cognitive features into their applications. The goal of Azure Cognitive Services is to help developers create applications that can see, hear, speak, understand, and even begin to reason.The catalog of services within Azure Cognitive Services can be categorized into five main pillars - Vision, Speech, Language, Web Search, and Decision.
 
 - [Microstf docs resource API access](https://docs.microsoft.com/en-us/azure/cognitive-services/Welcome#feedback)  
