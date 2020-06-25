@@ -6,7 +6,7 @@ For this repository our target audience includes developers, data scientists and
 
 
 # What is NLP?
-Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages. 
+Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages incudling text, image and speech. 
 
 In particular, NLP provides different techniques of how a computer program can **understand**, **analyse**, and potentially **generate large volume** of human language data.
 
@@ -22,19 +22,19 @@ Turing test is used to determine whether or not computer(machine) can think inte
 ![AI-timeLine](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/AI_timeline.PNG)
 
 
-# Mapping NLP applications to Microsoft Azure AI 
-This is a free-understanding of mapping between Azure AI solutions and NLP applications.
+# Microsoft Azure AI 
+The Microsoft AI platform provides a suite of powerful tools to allow developers to easily and quickly infuse AI into their applications and scenarios, enabling new, intelligent experiences for their users.
 
 ![Microsoft Azure AI](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/azureAI.PNG)
 
-
+# Mapping NLP applications to Microsoft Azure AI 
+This is a free-understanding of mapping between Azure AI solutions and NLP applications.
 
 ![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
 
 
 # Getting Started
-
-Microosft Azure AI services apply NLP techniques for two types of solutions: 
+Microosft Azure AI can be used for NLP applications for three 
 
 ## Pre_built AI:
 ### A) Azure Cognitive Services:
