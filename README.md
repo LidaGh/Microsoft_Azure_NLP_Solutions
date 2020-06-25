@@ -1,7 +1,6 @@
 # Overview 
 This repo breifly introduce AI and NLP with an comperhensive overview of Microsoft Azure AI and NLP solutions. It then provides a mapping between NLP applications and Azure AI solutions, wich also contains the links to the Microsoft official NLP repositories. 
 
-## contributor: Dr Lida Ghahremnalou, AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
 # Understanding NLP
 Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages. 
@@ -26,12 +25,6 @@ Turing test is used to determine whether or not computer(machine) can think inte
 ![Microsoft Azure AI](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/azureAI.PNG)
 
 Microosft Azure AI services apply NLP techniques for two types of solutions: 
-
-
-[ Knowledge extraction also known as (Information Extraction (IE)) is one of the main techniques of NLP which is the task of automatically extracting knowledge from structured/semi-structured (XML, RDF, HTML) documnets or unstructured (text, images, speech) resources. This task can be done at different lingustice levels.  
- 
- ## Language Models
-Building a language models are the most advanced NLP tasks, such as **word embedding**, **classification**, **summarization**, **document similarities** are implemented by deep learning techniques.]
 
 ## Pre_built AI:
 ### A) Azure Cognitive Services:
@@ -71,4 +64,8 @@ Microsoft research has published a repository contains examples and best practic
  # Mapping NLP to Azure 
 This is a free-understanding of mapping between NLP applications and Azure AI servcies.
 ![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
+
+
+### contributor: Dr Lida Ghahremnalou, AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
+
 
