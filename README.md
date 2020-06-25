@@ -71,6 +71,6 @@ Microsoft research has published a repository contains examples and best practic
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
  
 
-### contributor: Dr Lida Ghahremnalou, AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
+#### contributor: Dr Lida Ghahremnalou, Nlp specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
 
