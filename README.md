@@ -69,7 +69,7 @@ These solutions are designed for advanced knowlege mining tasks, such as Name En
  ### Machine learning and Deep Learning solutions: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
- 
+ ![Content](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/nlp_rec.PNG)
 
 #### contributor: Dr Lida Ghahremnalou, Nlp specialist and AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
