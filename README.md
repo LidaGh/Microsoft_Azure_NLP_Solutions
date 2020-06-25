@@ -1,15 +1,18 @@
 # Overview 
 This repo breifly introduce AI and NLP with an comperhensive overview of Microsoft Azure AI and NLP solutions. It then provides a mapping between NLP applications and Azure AI solutions, wich also contains the links to the Microsoft official NLP repositories. 
 
+# Target Audience
+For this repository our target audience includes developers, data scientists and machine learning engineers with varying levels of NLP knowledge who are seeking an easy guide to try Azure AI/NLP solutions. 
 
-# Understanding NLP
+
+# What is NLP?
 Natural Language Processing (NLP) is a field of **artificial intelligence**, **machine learning**, and **computational linguistics**. Its primary goal is the interactions between computers and human (natural) languages. 
 
 In particular, NLP provides different techniques of how a computer program can **understand**, **analyse**, and potentially **generate large volume** of human language data.
 
 NLP applications include **natural language understanding**, **machine translation**, **semantics** , **the syntactic passing**, **natural language emulation**, **dialectal systems** such as **speech recognition**, **question & answering** and a broad range of **text analytics techniques** such as topic modelling, classification, summarization, ranking and generation tasks.
 
-# Breif History of AI and NLP 
+## Breif History of AI and NLP 
 In seventeenth century, two philosophers proposed some theories for machine translation, but none resulted in development of an actual machine. The first patents for "translating machines" were applied for in the mid-1930s, creation of automated bilingual dictionary with various ligustic features. 
 The breakthrough in AI -and NLP in particular- happened in 1950, when Alan Turing, an Englsih mathematian, published his famous article "Computing Machinery and Intelligence" and proposed what is now called the ['Turing test'](https://en.wikipedia.org/wiki/Turing_test). 
 
@@ -19,10 +22,17 @@ Turing test is used to determine whether or not computer(machine) can think inte
 ![AI-timeLine](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/AI_timeline.PNG)
 
 
-
-# Microsoft Azure AI Overview
+# Mapping NLP applications to Microsoft Azure AI 
+This is a free-understanding of mapping between Azure AI solutions and NLP applications.
 
 ![Microsoft Azure AI](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/azureAI.PNG)
+
+
+
+![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
+
+
+# Getting Started
 
 Microosft Azure AI services apply NLP techniques for two types of solutions: 
 
@@ -60,11 +70,6 @@ These solutions are designed for advanced knowlege mining tasks, such as Name En
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
  
- 
- # Mapping NLP to Azure 
-This is a free-understanding of mapping between NLP applications and Azure AI servcies.
-![Mapping NLP to Azure](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MappingNLP.PNG)
-
 
 ### contributor: Dr Lida Ghahremnalou, AI and Advanced Analytics Cloud Solution Architect at Microsoft UK. 
 
