@@ -71,7 +71,7 @@ Microsoft research has published a repository contains examples and best practic
  ![Content](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/nlp_rec.PNG)
  
  # Microsoft Learning Path: Explore Natural Language Processing:
- [Micorosoft Free NLP learning path] (https://docs.microsoft.com/en-gb/learn/paths/explore-natural-language-processing/) including four modules on: 
+ [Micorosoft Free NLP learning path](https://docs.microsoft.com/en-gb/learn/paths/explore-natural-language-processing/) including four modules on: 
  - Analyze text with the Text Analytics service
  - Recognize and synthesize speech
  - Translate text and speech
