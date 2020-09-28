@@ -70,6 +70,16 @@ Microsoft research has published a repository contains examples and best practic
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
  ![Content](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/nlp_rec.PNG)
  
+ # Microsoft Learning Path: Explore Natural Language Processing:
+ [Micorosoft Free NLP learning path] (https://docs.microsoft.com/en-gb/learn/paths/explore-natural-language-processing/) including four modules on: 
+ - Analyze text with the Text Analytics service
+ - Recognize and synthesize speech
+ - Translate text and speech
+ - Create a language model with Language Understanding
+ 
+ 
+ 
+ 
  # Microsoft AI Platform at a glance:
  ![MS](https://github.com/LidaGh/Microsoft_Azure_NLP_Solutions/blob/master/images/MS_AI_Platform.PNG)
  
