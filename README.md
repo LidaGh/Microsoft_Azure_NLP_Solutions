@@ -63,7 +63,7 @@ Below is the official repositories for some of the services published by Microso
  ### 2) Knowledge Mining solutions:
 These solutions are designed for advanced knowledge mining tasks, such as Name Entity Recognition, Phrase Extraction, Custom labelling and Custom skills, where can enrich the IE process.
 - [Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
-- [Form Recognizer Recipes](https://github.com/microsoft/knowledge-extraction-recipes-forms)
+- [Knowledge Extraction Recipes Forms](https://github.com/microsoft/knowledge-extraction-recipes-forms)
 
  ### 3) Deep Learning NLP solutions: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
