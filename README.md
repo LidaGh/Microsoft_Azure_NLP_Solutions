@@ -65,6 +65,10 @@ These solutions are designed for advanced knowledge mining tasks, such as Name E
 - [Azure Cognitive Search Accelerator](https://github.com/microsoft/azure-search-knowledge-mining)
 - [Knowledge Extraction Recipes Forms](https://github.com/microsoft/knowledge-extraction-recipes-forms)
 
+#### Verseagility:
+Verseagility is a Python-based toolkit for your custom natural language processing task, allowing you to bring your own data. It is a central component of the Microsoft Services Knowledge Mining offering.
+-[Verseagility NLP Toolkit](https://github.com/microsoft/verseagility)
+
  ### 3) Deep Learning NLP solutions: 
 Microsoft research has published a repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. The focus of the repository is on state-of-the-art methods and common scenarios that are popular among researchers and practitioners working on problems involving text and language.  
  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
