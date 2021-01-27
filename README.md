@@ -1,5 +1,5 @@
 # Overview 
-This repo breifly introduce AI and NLP with an comprehensive overview of Microsoft Azure AI and NLP solutions. It then provides a mapping between NLP applications and Azure AI solutions. The repo also contains the links to the Microsoft official repositories. 
+This repo briefly introduce AI and NLP with an comprehensive overview of Microsoft Azure AI and NLP solutions. It then provides a mapping between NLP applications and Azure AI solutions. The repo also contains the links to the Microsoft official repositories. 
 
 # Target Audience
 For this repository our target audience includes developers, data scientists and machine learning engineers with different levels of NLP knowledge who are seeking an easy guide to try Azure AI/NLP solutions. 
